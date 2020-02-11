@@ -20,7 +20,7 @@ public class CheckedExceptionProp {
 	  public static void main(String args[]){  
 	   CheckedExceptionProp obj=new CheckedExceptionProp();  
 	   obj.p();  
-	   System.out.println("normal flow");  
+	   System.out.println("normal flow Executed");  
 	  }  
 
 }

@@ -3,7 +3,7 @@ public class FinallyDemo {
 
 	public static void main(String[] args) {
 		try{  
-			   int res=20/5;  
+			   int res=20/4;  
 			   System.out.println(res);  
 			  }  
 			  catch(ArithmeticException e)
